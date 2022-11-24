@@ -2,7 +2,8 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = "Hola, bienvenido al curso de Henry";
-const secondString = "Gracias por tu participación de la clase";
+const secondString = "Gracias por tu participación de la clase querido alumno";
+const secString = "Hasta pronto";
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
 
